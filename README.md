@@ -45,19 +45,16 @@
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
         <a href="https://github.com/Manjuhallegowda">
-          
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" height="28"/>
           <br/>
-          
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" height="28"/>
           <br/>
-
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" height="28"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" height="28"/>
