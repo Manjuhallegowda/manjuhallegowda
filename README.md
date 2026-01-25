@@ -14,10 +14,22 @@
   </a>
 </div>
 
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Manjuhallegowda&color=20C20E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 <br />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjuhallegowda&theme=dracula" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <span style="font-family: monospace; font-size: 16px;"><b>Current Status:</b> Scaling <i>Ranstack Solutions</i> & Optimizing <i>Latency</i></span>
 </div>
 
 <br />
@@ -56,6 +68,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
-    <samp>Running Ranstack_Solutions_Core_v2.0...</samp>
+    <samp>Running Ranstack_Solutions_Core_v2.1...</samp>
   </p>
 </div>
