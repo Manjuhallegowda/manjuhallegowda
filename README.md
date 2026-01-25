@@ -43,7 +43,7 @@
     <td width="40%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=20C20E" width="60" height="60"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" width="60" height="60"/>
