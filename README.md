@@ -40,8 +40,8 @@
       <h3 align="center">📈 Total Coding Activity</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjuhallegowda&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&hide_border=true" width="100%" />
     </td>
-    <td width="5%" valign="top"></td>
-    <td width="35%" valign="top">
+    <td width="35%" valign="top"></td>
+    <td width="60%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
         <a href="https://github.com/Manjuhallegowda">
