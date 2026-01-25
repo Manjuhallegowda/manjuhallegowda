@@ -1,11 +1,17 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+M+Manjunatha;Architecting+Scalable+Backends;Building+Data+Pipelines;AWS+Cloud+Practitioner" alt="Typing SVG" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Manjuhallegowda&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+</div>
 
-  <h3>🚀 Software Engineer | Distributed Systems | Data Platform Engineering</h3>
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+M+Manjunatha;Founder+@+Ranstack+Solutions;Architecting+Scalable+Backends;AWS+Cloud+%26+Data+Engineer;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+
+  <h3>🚀 Transforming Complex Data into Scalable Solutions</h3>
   
   <p>
-    <i>"Solving complex scale problems with simple, robust code."</i>
+    <i>"I build distributed systems that handle scale, optimize latency, and drive business growth."</i>
   </p>
 
   <a href="https://linkedin.com/in/manjuhallegowda">
@@ -17,6 +23,9 @@
   <a href="https://codewithmj.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://github.com/manjuhallegowda">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
@@ -26,15 +35,15 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Software Engineer** and the founder of **Ranstack Solutions**, a freelance consultancy where I architect distributed systems for e-commerce clients. I specialize in building **fault-tolerant backend services**, optimizing **ETL data pipelines**, and deploying scalable infrastructure on **AWS**.
+I am a **Software Engineer** and **Freelance Consultant** leading technical strategy at **Ranstack Solutions**. My expertise lies in the intersection of **Backend Engineering**, **Cloud Infrastructure**, and **Data Pipelines**.
 
-* 🔭 **Currently working on:** High-throughput Inventory Mapping Systems for 3PL logistics.
-* 🌱 **Currently learning:** Advanced Kafka Streaming patterns & Kubernetes orchestration.
-* ⚡ **Fun fact:** I reduced an API's latency by **40%** just by rewriting SQL queries!
+* 🔭 **Current Focus:** Building high-throughput **Inventory Mapping Systems** for 3PL logistics using **AWS**.
+* 💡 **Superpower:** I reduced an API's latency by **40%** by optimizing SQL queries and implementing caching strategies.
+* 🌱 **Learning:** Advanced **Kafka Streaming** patterns & **Kubernetes** orchestration.
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ **The Arsenal**
 
 <div align="center">
 
@@ -49,30 +58,36 @@ I am a **Software Engineer** and the founder of **Ranstack Solutions**, a freela
 
 ---
 
-### 🏆 **Featured Projects**
+### 🏆 **Signature Projects**
 
-| Project | Tech Stack | Impact |
+| **Project** | **Stack** | **Key Impact** |
 | :--- | :--- | :--- |
-| **📦 Inventory Integration System** | `Java` `Spring Boot` `AWS RDS` | • Reduced API latency by **40%**.<br>• Synchronized Shopify data with 3PLs using custom ETL pipelines. |
-| **🕷️ SocialSync Automation** | `Node.js` `Data Crawling` `REST` | • Automated content distribution to FB, Insta, & LinkedIn.<br>• Handled API rate-limiting and retries for **99.9% reliability**. |
-| **🛍️ SK Trendz Platform** | `SQL` `React` `Analytics` | • Engineered complex SQL queries for real-time sales reporting.<br>• Built a scalable inventory enrichment engine. |
+| **📦 Inventory Integration** | `Java` `Spring Boot` `AWS RDS` | • Synchronized large-scale inventory data for 3PL systems.<br>• **Impact:** Reduced data processing latency by **40%**. |
+| **🕷️ SocialSync Automation** | `Node.js` `Data Crawling` | • Automated content distribution to FB, Insta, & LinkedIn.<br>• **Impact:** Achieved **99.9% reliability** with auto-retries. |
+| **🛍️ SK Trendz Platform** | `React` `SQL` `Analytics` | • Built a scalable e-commerce backend for inventory enrichment.<br>• **Impact:** Enabled real-time sales reporting for clients. |
 
 ---
 
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuhallegowda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuhallegowda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjuhallegowda&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjuhallegowda&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://github.com/Manjuhallegowda/Manjuhallegowda/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manjuhallegowda&style=flat-square&color=blueviolet" alt="Visitor Counter" />
 </div>
 
 ---
-
-<div align="center">
-  <i>Let's build something scalable together.</i><br>
-  <b><a href="mailto:manjuhallegowda@gmail.com">📩 Hire Me</a></b>
-</div>
