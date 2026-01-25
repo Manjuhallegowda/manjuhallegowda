@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjuhallegowda&theme=dracula" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
 </div>
 
 <br />
@@ -68,6 +68,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
-    <samp>Running Ranstack_Solutions_Core_v2.1...</samp>
+    <samp>Running Ranstack_Solutions_Core_v2.2...</samp>
   </p>
 </div>
