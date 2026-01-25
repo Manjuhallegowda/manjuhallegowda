@@ -36,27 +36,32 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3 align="center">📈 Total Coding Activity</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjuhallegowda&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&hide_border=true" width="100%" />
     </td>
     <td width="5%" valign="top"></td>
-    <td width="70%" valign="top">
+    <td width="40%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
         <a href="https://github.com/Manjuhallegowda">
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" />
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" />
-</a>
+          
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" height="28"/>
+          <br/>
+          
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" height="28"/>
+          <br/>
+
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" height="28"/>
+        </a>
       </div>
     </td>
   </tr>
