@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <span style="font-family: monospace; font-size: 16px;"><b>Current Status:</b> Building <i>NammaKhaata</i> 📱 - Offline-first Fintech App (React Native + LocalDB).</span>
+  <span style="font-family: monospace; font-size: 16px;"><b>Current Status:</b> Building <i>NammaKhaata</i> 📱 | Offline-first Fintech App (React Native + LocalDB).</span>
 </div>
 
 <br />
