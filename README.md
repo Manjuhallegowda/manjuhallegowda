@@ -44,21 +44,19 @@
     <td width="40%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
-        <a href="https://github.com/Manjuhallegowda">
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" height="50"/>
           <br/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" height="28"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" height="50"/>
           <br/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" height="28"/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" height="28"/>
-        </a>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" height="50"/>
+          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" height="50"/>
       </div>
     </td>
   </tr>
@@ -77,6 +75,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
-    <samp>Running Ranstack_Solutions_Core_v2.5...</samp>
+    <samp>Running Ranstack_Solutions_Core_v2.6...</samp>
   </p>
 </div>
