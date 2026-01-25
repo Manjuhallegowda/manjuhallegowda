@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <span style="font-family: monospace; font-size: 16px;"><b>Current Status:</b> Building <i>NammaKhaata</i> 📱 | Offline-first Fintech App (React Native + LocalDB).</span>
+  <span style="font-family: monospace; font-size: 16px;"><b>Current Status:</b> Engineering <i>NammaKhaata</i> 💳 – Automating Expense Analytics via SMS Parsing.</span>
 </div>
 
 <br />
@@ -42,14 +42,26 @@
     </td>
     <td width="5%" valign="top"></td>
     <td width="35%" valign="top">
-      <h3 align="center">🛠 Core Stack</h3>
+      <h3 align="center">🛠 System Modules</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <a href="https://github.com/Manjuhallegowda">
+          <img src="https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/SPRING_BOOT-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/REACT_JS-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/NODE_JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" />
+          <br/>
+          
+          <img src="https://img.shields.io/badge/AWS_CLOUD-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=20C20E" />
+          <br/>
+
+          <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" />
+          <img src="https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=20C20E" />
+          <br/>
+          
+          <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=20C20E" />
+        </a>
       </div>
     </td>
   </tr>
@@ -68,6 +80,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
-    <samp>Running Ranstack_Solutions_Core_v2.3...</samp>
+    <samp>Running Ranstack_Solutions_Core_v2.5...</samp>
   </p>
 </div>
