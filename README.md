@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjuhallegowda&theme=dracula" width="100%" />
 </div>
 
 <br />
@@ -37,7 +37,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3 align="center">📈 Monthly Coding Frequency</h3>
+      <h3 align="center">📈 Total Coding Activity</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjuhallegowda&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&hide_border=true" width="100%" />
     </td>
     <td width="5%" valign="top"></td>
@@ -68,6 +68,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
-    <samp>Running Ranstack_Solutions_Core_v2.2...</samp>
+    <samp>Running Ranstack_Solutions_Core_v2.3...</samp>
   </p>
 </div>
