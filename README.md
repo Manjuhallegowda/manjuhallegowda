@@ -48,7 +48,6 @@
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" width="60" height="60"/>
           <br/>
-          <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=amazonaws&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=docker&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=postgresql&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=mysql&logoColor=20C20E" width="60" height="60"/>
