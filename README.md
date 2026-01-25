@@ -44,9 +44,7 @@
     <td width="35%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
-     
         <a href="https://github.com/Manjuhallegowda">
-  
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=openjdk&logoColor=20C20E" />
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" />
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" />
