@@ -1,4 +1,5 @@
-
+<!-- ULTIMATE GITHUB PROFILE - MANJU HALLE GOWDA -->
+<!-- This profile features custom animations, interactive elements, and a completely unique design -->
 <style>
   /* Animated gradient background animation */
   @keyframes gradientShift {
