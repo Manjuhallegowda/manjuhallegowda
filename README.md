@@ -43,7 +43,7 @@
     <td width="40%" valign="top">
       <h3 align="center">🛠 System Modules</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" height="40"/>
+         <img src="https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=20C20E" width="60" height="40"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=springboot&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=20C20E" width="60" height="60"/>
           <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=20C20E" width="60" height="60"/>
