@@ -1,5 +1,3 @@
-<!-- ULTIMATE GITHUB PROFILE - MANJU HALLE GOWDA -->
-<!-- This profile features custom animations, interactive elements, and a completely unique design -->
 
 <style>
   /* Animated gradient background animation */
@@ -63,7 +61,6 @@
         background: linear-gradient(0deg, transparent 80%, rgba(32, 194, 14, 0.03) 100%);
         pointer-events: none;
       "></div>
-      
       <h1 style="
         font-family: 'IBM Plex Mono', 'JetBrains Mono', monospace;
         font-size: 72px;
@@ -80,7 +77,6 @@
       ">
         ╱╲_Manju_╱╲<br/>HALLE_GOWDA
       </h1>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         font-size: 16px;
@@ -91,7 +87,6 @@
       ">
         → System.Engineer() | AI Architect | Full-Stack Builder ←
       </div>
-      
       <!-- Floating particles effect description -->
       <div style="
         margin-top: 25px;
@@ -130,7 +125,6 @@
       box-shadow: 0 0 8px #20C20E, 0 0 15px rgba(32, 194, 14, 0.5);
       animation: pulseGlow 2s ease-in-out infinite;
     "></div>
-    
     <span style="
       font-family: 'IBM Plex Mono', monospace;
       font-size: 14px;
@@ -138,7 +132,6 @@
       font-weight: bold;
       letter-spacing: 1px;
     ">LIVE_SESSION_ACTIVE</span>
-    
     <div style="
       font-family: 'Courier New', monospace;
       font-size: 12px;
@@ -198,7 +191,6 @@
         letter-spacing: 2px;
         margin-bottom: 15px;
       ">⚡ CURRENT_MISSION</div>
-      
       <div style="
         font-family: 'Courier New', monospace;
         font-size: 15px;
@@ -209,7 +201,6 @@
         <span style="color: #20C20E;">→</span> Engineering <b>NammaKhaata</b> 💳<br/>
         &nbsp;&nbsp;&nbsp;Real-time SMS-based Expense Analytics & Financial Intelligence Platform
       </div>
-      
       <div style="
         font-family: 'Courier New', monospace;
         font-size: 14px;
@@ -249,7 +240,6 @@
       padding: 12px;
       border-bottom: 2px dashed #20C20E;
     ">⟨ BACKEND_SYSTEMS ⟩</div>
-    
     <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; padding: 0 20px;">
       <div style="border: 2px solid #20C20E; border-radius: 10px; padding: 12px 20px; background: rgba(32, 194, 14, 0.05);">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -281,7 +271,6 @@
       padding: 12px;
       border-bottom: 2px dashed #20C20E;
     ">⟨ FRONTEND_ARSENAL ⟩</div>
-    
     <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; padding: 0 20px;">
       <div style="border: 2px solid #20C20E; border-radius: 10px; padding: 12px 20px; background: rgba(32, 194, 14, 0.05);">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
@@ -310,7 +299,6 @@
       padding: 12px;
       border-bottom: 2px dashed #20C20E;
     ">⟨ DATA_PERSISTENCE ⟩</div>
-    
     <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; padding: 0 20px;">
       <div style="border: 2px solid #20C20E; border-radius: 10px; padding: 12px 20px; background: rgba(32, 194, 14, 0.05);">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -339,7 +327,6 @@
       padding: 12px;
       border-bottom: 2px dashed #20C20E;
     ">⟨ DEVOPS_INFRASTRUCTURE ⟩</div>
-    
     <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; padding: 0 20px;">
       <div style="border: 2px solid #20C20E; border-radius: 10px; padding: 12px 20px; background: rgba(32, 194, 14, 0.05);">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -416,7 +403,6 @@
       overflow: hidden;
     ">
       <div style="position: absolute; top: 0; left: 0; width: 5px; height: 100%; background: linear-gradient(180deg, #20C20E 0%, transparent 100%);"></div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -424,7 +410,6 @@
         font-size: 18px;
         margin-bottom: 12px;
       ">→ NammaKhaata 💳</div>
-      
       <div style="
         color: #FFFFFF;
         font-family: 'Courier New', monospace;
@@ -434,7 +419,6 @@
       ">
         SMS-powered Expense Analytics & Real-time Financial Intelligence Platform
       </div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -449,7 +433,6 @@
         <span>▸ UPI Tracking</span>
       </div>
     </div>
-    
     <!-- Project 2 -->
     <div style="
       border: 2px solid #20C20E;
@@ -461,7 +444,6 @@
       overflow: hidden;
     ">
       <div style="position: absolute; top: 0; left: 0; width: 5px; height: 100%; background: linear-gradient(180deg, #20C20E 0%, transparent 100%);"></div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -469,7 +451,6 @@
         font-size: 18px;
         margin-bottom: 12px;
       ">→ Meghana Chatbot 🤖</div>
-      
       <div style="
         color: #FFFFFF;
         font-family: 'Courier New', monospace;
@@ -479,7 +460,6 @@
       ">
         Enterprise-Grade Conversational AI with Groq-Powered RAG Architecture
       </div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -494,7 +474,6 @@
         <span>▸ RAG Knowledge Base</span>
       </div>
     </div>
-    
     <!-- Project 3 -->
     <div style="
       border: 2px solid #20C20E;
@@ -506,7 +485,6 @@
       overflow: hidden;
     ">
       <div style="position: absolute; top: 0; left: 0; width: 5px; height: 100%; background: linear-gradient(180deg, #20C20E 0%, transparent 100%);"></div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -514,7 +492,6 @@
         font-size: 18px;
         margin-bottom: 12px;
       ">→ Ranstack Solutions 🚀</div>
-      
       <div style="
         color: #FFFFFF;
         font-family: 'Courier New', monospace;
@@ -524,7 +501,6 @@
       ">
         Full-Stack Digital Development & AI Product Engineering Agency
       </div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
@@ -599,7 +575,6 @@
         letter-spacing: 2px;
         font-weight: 900;
       ">LET'S BUILD SOMETHING EXTRAORDINARY</div>
-      
       <div style="
         font-family: 'Courier New', monospace;
         font-size: 14px;
@@ -610,7 +585,6 @@
         Whether you're looking for full-stack development, AI product engineering,<br/>
         or scaling infrastructure — I'm here to turn visions into reality.
       </div>
-      
       <div style="
         font-family: 'IBM Plex Mono', monospace;
         color: #20C20E;
