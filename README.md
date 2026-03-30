@@ -63,9 +63,9 @@
 <br/>
 
 <div align="center">
-  <h3>🏗️ The Code Factory (3D View)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manjuhallegowda&theme=dracula&utcOffset=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manjuhallegowda&theme=dracula" width="48%" />
+  <h3>🏗️ The Code Factory (Reliable Stats)</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=dracula&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuhallegowda&layout=compact&theme=dracula" width="48%" />
 </div>
 
 <br/>
