@@ -130,13 +130,13 @@
       <td style="width: 48%;">
         <div style="border: 1px solid #20C20E; border-radius: 8px; padding: 15px; background: rgba(32, 194, 14, 0.03);">
           <h3 style="font-family: 'JetBrains Mono', monospace; color: #20C20E; margin: 0 0 15px 0; letter-spacing: 1px;">LANGUAGE BREAKDOWN</h3>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manjuhallegowda&theme=dracula" width="100%" style="border-radius: 4px;" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjuhallegowda&layout=compact&theme=dark&title_color=20C20E&text_color=FFFFFF&bg_color=0D1117&border_color=20C20E" width="100%" style="border-radius: 4px;" alt="Top Languages"/>
         </div>
       </td>
       <td style="width: 48%;">
         <div style="border: 1px solid #20C20E; border-radius: 8px; padding: 15px; background: rgba(32, 194, 14, 0.03);">
-          <h3 style="font-family: 'JetBrains Mono', monospace; color: #20C20E; margin: 0 0 15px 0; letter-spacing: 1px;">ACTIVITY HEATMAP</h3>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manjuhallegowda&theme=dracula&utcOffset=5.5" width="100%" style="border-radius: 4px;" />
+          <h3 style="font-family: 'JetBrains Mono', monospace; color: #20C20E; margin: 0 0 15px 0; letter-spacing: 1px;">GITHUB STATS</h3>
+          <img src="https://github-readme-stats.vercel.app/api?username=Manjuhallegowda&show_icons=true&theme=dark&title_color=20C20E&text_color=FFFFFF&bg_color=0D1117&border_color=20C20E&icon_color=20C20E" width="100%" style="border-radius: 4px;" alt="GitHub Stats"/>
         </div>
       </td>
     </tr>
@@ -144,7 +144,7 @@
 </div>
 
 <div align="center" style="margin: 50px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjuhallegowda&theme=dracula" width="95%" style="border-radius: 8px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manjuhallegowda&theme=dark&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=20C20E&sideLabels=20C20E" width="95%" style="border-radius: 8px; border: 1px solid #20C20E;" alt="GitHub Streak"/>
 </div>
 
 ---
