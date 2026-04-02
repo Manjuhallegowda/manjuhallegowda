@@ -64,8 +64,6 @@
 
 <div align="center">
   <h3>🏗️ The Code Factory (Static Modules)</h3>
-  <img src="https://raw.githubusercontent.com/Manjuhallegowda/Manjuhallegowda/master/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
-  <br/>
   <img src="https://raw.githubusercontent.com/Manjuhallegowda/Manjuhallegowda/master/profile-summary-card-output/dracula/2-most-commit-language.svg" width="48%" />
   <img src="https://raw.githubusercontent.com/Manjuhallegowda/Manjuhallegowda/master/profile-summary-card-output/dracula/4-productive-time.svg" width="48%" />
 </div>
