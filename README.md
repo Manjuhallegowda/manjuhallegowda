@@ -71,6 +71,12 @@
 <br/>
 
 <div align="center">
+  <p style="font-family: monospace;">
+    <samp>📦 Repositories → Public: 12 | Private: 18 | Total: 30</samp>
+  </p>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%" />
   <p align="center" style="font-family: monospace;">
     <samp>Running Ranstack_Solutions_Core_v2.6...</samp>
