@@ -72,7 +72,7 @@
 
 <div align="center">
   <p style="font-family: monospace;">
-    <samp>📦 Repositories → Public: 12 | Private: 18 | Total: 30</samp>
+    <samp>📦 Repositories → Public: 12 | Private: 21 | Total: 33</samp>
   </p>
 </div>
 
